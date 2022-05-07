@@ -1,0 +1,10 @@
+**/target
+**/.classpath
+**/.settings
+**/.project
+**/*.jar
+**/*.c
+**/*.a
+**/*.dylib
+**/*.cdylib
+**/*.rlib
